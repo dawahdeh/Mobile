@@ -1,0 +1,31 @@
+body {
+ 
+  background-color: hsla(200, 95%, 55%, 0.021)
+
+
+
+}
+
+
+
+class.color{
+
+color :crimson
+
+}
+
+li{
+
+float :right ;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+
+img
+{
+margin: 20px 20px 20px 20px;
+}
